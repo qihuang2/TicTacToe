@@ -14,7 +14,6 @@ This is a simple Tic Tac Toe game written for Android.
 # Screenshots
 
 <img src="screenshots/1.png" width="270">
-![ScreenShot 1](screenshots/1.png =270x)
-![ScreenShot 2](screenshots/2.png =270x)
-![ScreenShot 3](screenshots/3.png =270x)
-![ScreenShot 4](screenshots/4.png =270x)
+<img src="screenshots/2.png" width="270">
+<img src="screenshots/3.png" width="270">
+<img src="screenshots/4.png" width="270">
