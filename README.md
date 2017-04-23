@@ -1,6 +1,6 @@
 # TicTacToe
 
-This is a simple Tic Tac Toe game written for Android.
+This is a simple 2-player Tic Tac Toe game written for Android. 
 
 # How to use
 
